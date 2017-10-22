@@ -197,13 +197,13 @@ p { text-align: center; font-size: 14px; color: #848789; font-weight: 300; word-
 p.text-intro { font-size: 18px; }
 .hero { background: url(../imgs/hero-bg.jpg) no-repeat top center #000; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover; height: 685px; }
 nav { height: 85px; margin-top: 30px; position: relative; }
-.logo-holder { background: url(../img/main-logo.png) no-repeat center center; width: 94px; height: 85px; position: absolute; top: 0; left: 327px; }
+.logo-holder { background: url(../imgs/main-logo.png) no-repeat center center; width: 94px; height: 85px; position: absolute; top: 0; left: 327px; }
 .responsive-logo { display: hidden; }
 header { background-color: #000; }
 header ul { padding-top: 35px; }
 header ul li { list-style: none; float: left; text-transform: uppercase; letter-spacing: 2px; }
 header ul li a { display: block; margin: 0 30px; color: #4d4959; }
-.r_spacer { margin-right: 180px; }
+.r_spacer { margin-right: 76px; }
 .intro { padding: 115px 0; background-color: #fbfbfb; }
 .section-1 { background: url(../img/left-box-1.jpg) no-repeat center center; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover; height: 600px; position: relative; }
 .section-2 { background: url(../img/left-box-2.jpg) no-repeat center center; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover; height: 600px; position: relative; }
