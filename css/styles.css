@@ -202,7 +202,8 @@ nav { height: 85px; margin-top: 30px; position: relative; }
 header { background-color: #000; }
 header ul { padding-top: 35px; }
 header ul li { list-style: none; float: left; text-transform: uppercase; letter-spacing: 2px; }
-header ul li a { display: block; margin: 0 30px; color: #4d4959; }
+header ul li a { display: block; margin: 0 30px; color: #fff; }
+header ul li.dot { color: #fff}
 .r_spacer { margin-right: 76px; }
 .intro { padding: 115px 0; background-color: #fbfbfb; }
 .section-1 { background: url(../img/left-box-1.jpg) no-repeat center center; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover; height: 600px; position: relative; }
