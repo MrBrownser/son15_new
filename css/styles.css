@@ -223,7 +223,7 @@ header ul li.dot { color: #fff}
 .arrow { background: url(../img/arrow.png) no-repeat center center; width: 21px; height: 10px; margin: -1px auto 0 auto; }
 .logo-1 { width: 113px; height: 113px; background: url(../imgs/music-logo.png); position: absolute; left: 50%; top: 50%; margin-left: -56px; margin-top: -59px; }
 .logo-2 { width: 177px; height: 152px; background: url(../imgs/kicks.png); position: absolute; left: 50%; top: 50%; margin-top: -70px; margin-left: -90px; }
-.logo-3 { width: 50px; height: 48px; background: url(../imgs/beanie.png); position: absolute; left: 73%; top: 92%; margin-left: -110px; margin-top: -10px; }
+.logo-3 { width: 100px; height: 96px; background: url(../imgs/bboy-beanie.png); position: absolute; left: 60%; top: 50%; margin-left: -88px; margin-top: 0px; }
 .flex-container { background-color: #f7f7f7; padding: 125px 0 35px; text-align: center; }
 .flex-twitter-icon { width: 32px; height: 27px; background: url(../img/twitter-bird.png) no-repeat center center; margin: 0 auto; }
 p.twitter-post { color: #848789; font-size: 24px; font-style: italic; font-weight: 300; margin-bottom: 100px; }
