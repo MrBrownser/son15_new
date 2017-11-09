@@ -20,7 +20,7 @@ CSS Queries
     .logo-1 { position: absolute; left: 50%; top: 50%; }
     .logo-holder { display: none; }
     .logo-2 { position: absolute; left: 50%; top: 50%; }
-    .logo-3 { position: absolute; left: 50%; top: 50%; }
+    .logo-3 { position: absolute; left: 61%; top: 50%; }
     .footer-leftcol p, .footer-rightcol p { text-align: center; }
     .footer-midcol ul { margin-top: 40px; }
     .submit-btn { margin-top: 10px; }
