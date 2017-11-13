@@ -173,7 +173,7 @@ table { border-collapse: collapse; border-spacing: 0; }
 /* ==========================================================================
 Headings
 ========================================================================== */
-h1.chain { text-align: center; text-transform: uppercase; color: #353738; letter-spacing: 2px; font-size: 18px; font-weight: 600; background: url(../imgs/son15-icon.png) no-repeat top center; padding-top: 240px;}
+h1.chain { text-align: center; text-transform: uppercase; color: #aeaa29; letter-spacing: 2px; font-size: 18px; font-weight: 600; background: url(../imgs/son15-icon.png) no-repeat top center; padding-top: 240px;}
 h2.frame { text-align: center; text-transform: uppercase; color: #353738; letter-spacing: 2px; font-size: 18px; font-weight: 600; margin-top: 50px; }
 .fa.fa-music, .fa.fa-comments-o { color: #8b1220; }
 h2.mech { text-align: center; text-transform: uppercase; color: #353738; letter-spacing: 2px; font-size: 18px; font-weight: 600; margin-top: 30px; }
@@ -193,8 +193,8 @@ User Styles
 .clearfix:after { clear: both; }
 .clearfix { *zoom: 1; }
 .pullcontainer a#pull { display: none; }
-a { color: #282f35; -webkit-transition: all .25s ease; -moz-transition: all .25s ease; -ms-transition: all .25s ease; -o-transition: all .25s ease; transition: all .25s ease; }
-a:hover { color: #64c29e; text-decoration: none; }
+a { color: #8b1220; -webkit-transition: all .25s ease; -moz-transition: all .25s ease; -ms-transition: all .25s ease; -o-transition: all .25s ease; transition: all .25s ease; }
+a:hover { color: #AB2C3B; text-decoration: none; }
 p { text-align: center; font-size: 14px; color: #848789; font-weight: 300; word-spacing: 2px; line-height: 1.8em; margin-top: 25px; }
 p.text-intro { font-size: 18px; }
 .hero { background: url(../imgs/hero-bg.jpg) no-repeat top center #000; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover; min-height: 760px; }
@@ -207,7 +207,7 @@ header ul li { list-style: none; float: left; text-transform: uppercase; letter-
 header ul li a { display: block; margin: 0 30px; color: #fff; }
 header ul li.dot { color: #fff}
 .r_spacer { margin-right: 76px; }
-.intro { padding: 115px 0; background-color: #fbfbfb; }
+.intro { padding: 115px 0; background-color: #2a3137; }
 .section-1 { background: url(../imgs/left-box-1.png) no-repeat center center; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover; height: 600px; position: relative; }
 .section-2 { background: url(../imgs/sofi_bn.jpg) no-repeat center center; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover; height: 600px; position: relative; }
 .section-3 { background: url(../imgs/about-us.jpg) no-repeat center center; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover; height: 600px; position: relative; }
