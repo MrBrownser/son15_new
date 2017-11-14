@@ -193,17 +193,16 @@ User Styles
 .clearfix:after { clear: both; }
 .clearfix { *zoom: 1; }
 .pullcontainer a#pull { display: none; }
-a { color: #8b1220; -webkit-transition: all .25s ease; -moz-transition: all .25s ease; -ms-transition: all .25s ease; -o-transition: all .25s ease; transition: all .25s ease; }
-a:hover { color: #AB2C3B; text-decoration: none; }
+a { color: #AB2C3B; -webkit-transition: all .25s ease; -moz-transition: all .25s ease; -ms-transition: all .25s ease; -o-transition: all .25s ease; transition: all .25s ease; }
+a:hover { color: #8b1220; text-decoration: none; }
 p { text-align: center; font-size: 14px; color: #848789; font-weight: 300; word-spacing: 2px; line-height: 1.8em; margin-top: 25px; }
 p.text-intro { font-size: 18px; }
 .hero { background: url(../imgs/hero-bg.jpg) no-repeat top center #000; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover; min-height: 760px; }
 nav { height: 85px; margin-top: 30px; position: relative; }
-.logo-holder { background: url(../imgs/main-logo.png) no-repeat center center; width: 94px; height: 85px; position: absolute; top: 0; left: 327px; }
 .responsive-logo { display: hidden; }
 header { background-color: #000; }
 header ul { padding-top: 35px; }
-header ul li { list-style: none; float: left; text-transform: uppercase; letter-spacing: 2px; }
+header ul li { list-style: none; float: left; text-transform: uppercase; }
 header ul li a { display: block; margin: 0 30px; color: #fff; }
 header ul li.dot { color: #fff}
 .r_spacer { margin-right: 76px; }
@@ -260,7 +259,7 @@ section.sign_up { padding: 40px 0 110px 0; }
 footer { background-color: #f7f7f7; padding: 100px 0; }
 footer p { font-size: 13px; margin: 0; }
 .footer-leftcol p { text-align: left; }
-.footer-rightcol p { text-align: right; font-style: italic; margin-top: 20px; }
+.footer-rightcol p { text-align: right; font-style: italic; }
 .bold-16p { font-size: 15px; font-weight: 600; }
 .footer-midcol { margin-left: auto; margin-right: auto; }
 .footer-midcol ul { text-align: center; padding: 0; }
