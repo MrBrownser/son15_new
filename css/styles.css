@@ -181,7 +181,6 @@ h2.mech { text-align: center; text-transform: uppercase; color: #353738; letter-
 h2.front-frame { text-align: center; text-transform: uppercase; color: #353738; letter-spacing: 2px; font-size: 18px; font-weight: 600; margin-top: 50px; }
 h2.twitter-post-username { color: #353738; letter-spacing: 2px; font-size: 18px; font-weight: 600; margin-top: 30px; }
 h2.twitter-post-username span { color: #848789; font-weight: 300; }
-h2.logo-header { text-align: center; color: #848789; letter-spacing: 1px; font-size: 24px; font-weight: 300; background: url(../img/main-logo.png) no-repeat top center; padding-top: 120px; margin: 70px 0 40px 0; font-style: italic; }
 /* ==========================================================================
 User Styles
 ========================================================================== */
@@ -219,12 +218,11 @@ header ul li.dot { color: #fff}
 .frame-red { background: url(../imgs/chrome-wheels.jpg) no-repeat center center; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover; }
 .section-text p { padding: 0 60px; text-align: justify; }
 .section-text p.icon { padding: 0 60px; text-align: center; color: #770567; font-size: 30px; }
-.arrow { background: url(../img/arrow.png) no-repeat center center; width: 21px; height: 10px; margin: -1px auto 0 auto; }
+.arrow { background: url(../imgs/arrow.png) no-repeat center center; width: 21px; height: 10px; margin: -1px auto 0 auto; }
 .logo-1 { width: 113px; height: 113px; background: url(../imgs/music-logo.png); position: absolute; left: 50%; top: 50%; margin-left: -56px; margin-top: -59px; }
 .logo-2 { width: 177px; height: 152px; background: url(../imgs/bboy-beanie.png); position: absolute; left: 50%; top: 50%; margin-top: -90px; margin-left: -90px; }
 .logo-3 { width: 134px; height: 68px; background: url(../imgs/airmax95.png) no-repeat; position: absolute; left: 61%; top: 50%; margin-left: -110px; margin-top: -10px; }
 .flex-container { background-color: #f7f7f7; padding: 125px 0 35px; text-align: center; }
-.flex-twitter-icon { width: 32px; height: 27px; background: url(../img/twitter-bird.png) no-repeat center center; margin: 0 auto; }
 p.twitter-post { color: #848789; font-size: 24px; font-style: italic; font-weight: 300; margin-bottom: 100px; }
 .left-box-1 { width: 50%; float: left; }
 .left-box-2 { width: 50%; float: right; }
@@ -265,9 +263,9 @@ footer p { font-size: 13px; margin: 0; }
 .footer-midcol li { list-style: none; display: inline-block; margin-right: 15px; }
 .footer-midcol li a { opacity: 1; }
 .footer-midcol li a:hover { opacity: 0.5; }
-.twitter-icon { background: url(../img/twitter-icon.png); height: 34px; width: 35px; display: block; text-indent: -9999px; }
-.facebook-icon { background: url(../img/facebook-icon.png); height: 34px; width: 35px; display: block; text-indent: -9999px; }
-.pintrest-icon { background: url(../img/pintrest-icon.png); height: 34px; width: 35px; display: block; text-indent: -9999px; }
+.twitter-icon { background: url(../imgs/twitter-icon.png); height: 34px; width: 35px; display: block; text-indent: -9999px; }
+.facebook-icon { background: url(../imgs/facebook-icon.png); height: 34px; width: 35px; display: block; text-indent: -9999px; }
+.pintrest-icon { background: url(../imgs/pintrest-icon.png); height: 34px; width: 35px; display: block; text-indent: -9999px; }
 .wp1, .wp2, .wp3, .wp4, .wp5, .wp6 { visibility: hidden; }
 .bounceInLeft, .bounceInRight, .fadeInUp { visibility: visible; }
 .centered-paragraph { text-align: center !important; }
@@ -275,3 +273,51 @@ footer p { font-size: 13px; margin: 0; }
 /* ADDED */
 .valign { padding-top: 5%; }
 .nav-aligned { margin-left: 94px + }
+.grid {
+  position: relative;
+}
+.item {
+  display: block;
+  position: absolute;
+	max-width: 200px;
+	max-height:200px;
+	width: auto;
+	height: auto;
+  margin: 5px;
+  z-index: 1;
+  background: transparent;
+  color: #fff;
+}
+.item.muuri-item-hidden {
+  z-index: 0;
+}
+.item-content {
+  position: relative;
+	max-width:200px;
+	max-height:200px;
+  width: 100%;
+  height: 100%;
+}
+
+.gallery {
+	max-width:200px;
+	max-height:200px;
+	border: 2px solid;
+	border-radius: 4px;
+}
+
+.gallery-2013 {
+	border-color: #f94a7a;
+}
+
+.gallery-2015 {
+	border-color: #4A9FF9;
+}
+
+.gallery-2016 {
+	border-color: #2ac06d;
+}
+
+.gallery-2017 {
+	border-color: #FFDC00;
+}

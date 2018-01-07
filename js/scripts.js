@@ -60,7 +60,7 @@ $(document).ready(function() {
 });
 
 
-// SMOOTH NAV SCROLL 
+// SMOOTH NAV SCROLL
 $(function() {
   $('a[href*=#]:not([href=#])').click(function() {
     if (location.pathname.replace(/^\//, '') === this.pathname.replace(/^\//, '') && location.hostname === this.hostname) {
@@ -116,5 +116,22 @@ $(function() {
   }, {
     offset: '85%'
   });
+
+});
+
+// MUURI (Image gallery)
+var grid = new Muuri('.grid', {
+  items: '.item',
+  layout: {
+    fillGaps: false,
+    horizontal: false,
+    alignRight: false,
+    alignBottom: false,
+    rounding: true
+  }
+});
+
+
+var grid = new Muuri(elem, {
 
 });
