@@ -275,6 +275,8 @@ footer p { font-size: 13px; margin: 0; }
 .nav-aligned { margin-left: 94px + }
 .grid {
   position: relative;
+	margin-top: 30px;
+	margin-bottom: 30px;
 }
 .item {
   display: block;
@@ -283,7 +285,7 @@ footer p { font-size: 13px; margin: 0; }
 	max-height:200px;
 	width: auto;
 	height: auto;
-  margin: 5px;
+  margin: 1px;
   z-index: 1;
   background: transparent;
   color: #fff;
@@ -302,22 +304,5 @@ footer p { font-size: 13px; margin: 0; }
 .gallery {
 	max-width:200px;
 	max-height:200px;
-	border: 2px solid;
 	border-radius: 4px;
-}
-
-.gallery-2013 {
-	border-color: #f94a7a;
-}
-
-.gallery-2015 {
-	border-color: #4A9FF9;
-}
-
-.gallery-2016 {
-	border-color: #2ac06d;
-}
-
-.gallery-2017 {
-	border-color: #FFDC00;
 }
