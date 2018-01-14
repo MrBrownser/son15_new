@@ -247,7 +247,6 @@ a.close-overlay.hidden { display: none }
 #effect .img { overflow: hidden }
 #effect .img.hover .overlay { opacity: 1 }
 #effect .img.hover .overlay a.expand { top: 50%; margin-top: -30px; opacity: 1; }
-.discover { background-color: #282f35; padding: 70px 0; text-align: center; }
 .shop-btn { border: solid 1px #bbb; padding: 15px 50px; color: #fff; text-transform: uppercase; letter-spacing: 3px; font-weight: 400; }
 .shop-btn:hover, .shop-btn:focus { border: solid 1px #64c29e; }
 .sign-up { text-align: center; }
@@ -273,6 +272,8 @@ footer p { font-size: 13px; margin: 0; }
 /* ADDED */
 .valign { padding-top: 5%; }
 .nav-aligned { margin-left: 94px + }
+.badge { vertical-align: top; }
+.workshops { background: url(../imgs/workshops.jpg) no-repeat top center #282f35; -webkit-background-size: contain; -moz-background-size: contain; -o-background-size: contain; background-size: contain; min-height: 760px; }
 /* .grid {
   position: relative;
 	margin-top: 30px;
