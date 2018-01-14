@@ -196,7 +196,7 @@ a { color: #AB2C3B; -webkit-transition: all .25s ease; -moz-transition: all .25s
 a:hover { color: #8b1220; text-decoration: none; }
 p { text-align: center; font-size: 14px; color: #848789; font-weight: 300; word-spacing: 2px; line-height: 1.8em; margin-top: 25px; }
 p.text-intro { font-size: 18px; }
-.hero { background: url(../imgs/hero-bg.jpg) no-repeat top center #000; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover; min-height: 760px; }
+.hero { background: url(../imgs/horarios.jpg) no-repeat top center #000; -webkit-background-size: contain; -moz-background-size: contain; -o-background-size: contain; background-size: contain; min-height: 760px; }
 nav { height: 85px; margin-top: 30px; position: relative; }
 .responsive-logo { display: hidden; }
 header { background-color: #000; }

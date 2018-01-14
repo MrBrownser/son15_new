@@ -4,6 +4,8 @@ CSS Queries
 
 @media screen and (max-width:640px) {
     .shop-btn { padding: 15px 25px; font-size: 10px; }
+    .hero { min-height: 266px; }
+    .intro { padding: 0 0; }
 }
 @media screen and (max-width:1200px) {
     p{font-size: 14px; }
