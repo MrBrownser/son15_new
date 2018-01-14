@@ -120,18 +120,18 @@ $(function() {
 });
 
 // MUURI (Image gallery)
-var grid = new Muuri('.grid', {
-  items: '.item',
-  layout: {
-    fillGaps: false,
-    horizontal: false,
-    alignRight: false,
-    alignBottom: false,
-    rounding: true
-  }
-});
-
-
-var grid = new Muuri(elem, {
-
-});
+// var grid = new Muuri('.grid', {
+//   items: '.item',
+//   layout: {
+//     fillGaps: false,
+//     horizontal: false,
+//     alignRight: false,
+//     alignBottom: false,
+//     rounding: true
+//   }
+// });
+//
+//
+// var grid = new Muuri(elem, {
+//
+// });

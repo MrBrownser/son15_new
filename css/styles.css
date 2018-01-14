@@ -273,7 +273,7 @@ footer p { font-size: 13px; margin: 0; }
 /* ADDED */
 .valign { padding-top: 5%; }
 .nav-aligned { margin-left: 94px + }
-.grid {
+/* .grid {
   position: relative;
 	margin-top: 30px;
 	margin-bottom: 30px;
@@ -305,4 +305,4 @@ footer p { font-size: 13px; margin: 0; }
 	max-width:200px;
 	max-height:200px;
 	border-radius: 4px;
-}
+} */
