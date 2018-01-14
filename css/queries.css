@@ -6,6 +6,11 @@ CSS Queries
     .shop-btn { padding: 15px 25px; font-size: 10px; }
     .hero { min-height: 266px; }
     .intro { padding: 0 0; }
+    div.text-intro { display: block; }
+    div.text-intro .text { flex: none; }
+    div.text-intro .bullets-container { flex: none; }
+    ul.bullets { margin: 1em 0 0 0; }
+    p.text-intro { font-size: 18px; margin: 1em; }
 }
 @media screen and (max-width:1200px) {
     p{font-size: 14px; }
