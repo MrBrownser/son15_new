@@ -205,7 +205,7 @@ header ul li { list-style: none; float: left; text-transform: uppercase; letter-
 header ul li a { display: block; margin: 0 20px; color: #fff; }
 header ul li.dot { color: #fff}
 .r_spacer { margin-right: 76px; }
-.intro { padding: 115px 0; background-color: #2a3137; }
+.intro { padding: 115px 0; background-color: #fff; }
 .section-1 { background: url(../imgs/left-box-1.png) no-repeat center center; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover; height: 600px; position: relative; }
 .section-2 { background: url(../imgs/sofi_bn.jpg) no-repeat center center; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover; height: 600px; position: relative; }
 .section-3 { background: url(../imgs/about-us.jpg) no-repeat center center; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover; height: 600px; position: relative; }
