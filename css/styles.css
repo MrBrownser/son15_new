@@ -173,7 +173,7 @@ table { border-collapse: collapse; border-spacing: 0; }
 /* ==========================================================================
 Headings
 ========================================================================== */
-h1.chain { text-align: center; text-transform: uppercase; color: #aeaa29; letter-spacing: 2px; font-size: 18px; font-weight: 600; background: url(../imgs/son15-icon.png) no-repeat top center; padding-top: 240px;}
+h1.chain { text-align: center; text-transform: uppercase; color: #aeaa29; letter-spacing: 2px; font-size: 18px; font-weight: 600; background: url(../imgs/son15-icon.png) no-repeat top center; padding-top: 240px; padding-bottom: 1em; }
 h2.frame { text-align: center; text-transform: uppercase; color: #353738; letter-spacing: 2px; font-size: 18px; font-weight: 600; margin-top: 50px; }
 .fa.fa-music, .fa.fa-comments-o { color: #8b1220; }
 h2.mech { text-align: center; text-transform: uppercase; color: #353738; letter-spacing: 2px; font-size: 18px; font-weight: 600; margin-top: 30px; }
@@ -195,7 +195,7 @@ User Styles
 a { color: #AB2C3B; -webkit-transition: all .25s ease; -moz-transition: all .25s ease; -ms-transition: all .25s ease; -o-transition: all .25s ease; transition: all .25s ease; }
 a:hover { color: #8b1220; text-decoration: none; }
 p { text-align: center; font-size: 14px; color: #848789; font-weight: 300; word-spacing: 2px; line-height: 1.8em; margin-top: 25px; }
-p.text-intro { font-size: 18px; }
+div.text-intro { color: #848789; font-size: 18px; column-count: 2 }
 .hero { background: url(../imgs/horarios.jpg) no-repeat top center #000; -webkit-background-size: contain; -moz-background-size: contain; -o-background-size: contain; background-size: contain; min-height: 760px; }
 nav { height: 85px; margin-top: 30px; position: relative; }
 .responsive-logo { display: hidden; }
