@@ -31,6 +31,3 @@ CSS Queries
     .pullcontainer { width: 100%; text-align: right; padding: 20px 20px 0 0; }
     .pullcontainer a#pull { display: block; width: 100%; color: #242a2c; }
 }
-@media screen and (max-width:991px) {
-  .intro-video {display: none;}
-}
