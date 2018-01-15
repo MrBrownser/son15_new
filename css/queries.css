@@ -11,6 +11,7 @@ CSS Queries
     div.text-intro .bullets-container { flex: none; }
     ul.bullets { margin: 1em 0 0 0; }
     p.text-intro { font-size: 18px; margin: 1em; }
+    .workshops { min-height: 550px; }
 }
 @media screen and (max-width:1200px) {
     p{font-size: 14px; }
@@ -31,6 +32,7 @@ CSS Queries
     .footer-leftcol p, .footer-rightcol p { text-align: center; }
     .footer-midcol ul { margin-top: 40px; }
     .submit-btn { margin-top: 10px; }
+    .workshops { min-height: 550px; }
 }
 @media only screen and (max-width:1200px) {
     nav { border-bottom: 0; }
