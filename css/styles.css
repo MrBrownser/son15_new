@@ -175,7 +175,7 @@ Headings
 ========================================================================== */
 h1.chain { text-align: center; text-transform: uppercase; color: #aeaa29; letter-spacing: 2px; font-size: 18px; font-weight: 600; background: url(../imgs/son15-icon.png) no-repeat top center; padding-top: 240px; padding-bottom: 1em; }
 h2.frame { text-align: center; text-transform: uppercase; color: #353738; letter-spacing: 2px; font-size: 18px; font-weight: 600; margin-top: 50px; }
-.fa.fa-music, .fa.fa-comments-o { color: #8b1220; }
+.fa.fa-music, .fa.fa-comments-o { color: #FF9900; }
 h2.mech { text-align: center; text-transform: uppercase; color: #353738; letter-spacing: 2px; font-size: 18px; font-weight: 600; margin-top: 30px; }
 
 h2.front-frame { text-align: center; text-transform: uppercase; color: #353738; letter-spacing: 2px; font-size: 18px; font-weight: 600; margin-top: 50px; }
@@ -192,8 +192,8 @@ User Styles
 .clearfix:after { clear: both; }
 .clearfix { *zoom: 1; }
 .pullcontainer a#pull { display: none; }
-a { color: #AB2C3B; -webkit-transition: all .25s ease; -moz-transition: all .25s ease; -ms-transition: all .25s ease; -o-transition: all .25s ease; transition: all .25s ease; }
-a:hover { color: #8b1220; text-decoration: none; }
+a { color: #FF9900; -webkit-transition: all .25s ease; -moz-transition: all .25s ease; -ms-transition: all .25s ease; -o-transition: all .25s ease; transition: all .25s ease; }
+a:hover { color: #FF9900; text-decoration: none; }
 p { text-align: center; font-size: 14px; color: #848789; font-weight: 300; word-spacing: 2px; line-height: 1.8em; margin-top: 25px; }
 p.text-intro { font-size: 18px; }
 div.text-intro { color: #848789; font-size: 18px; resize: horizontal; display: flex; margin: 1em; }
