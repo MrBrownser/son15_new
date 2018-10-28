@@ -200,11 +200,11 @@ div.text-intro { color: #848789; font-size: 18px; resize: horizontal; display: f
 div.text-intro .text { flex: 2; }
 div.text-intro .bullets-container { flex: 1; }
 ul.bullets { margin: 0; }
-.hero { background: url(../imgs/horarios.jpg) no-repeat top center #000; -webkit-background-size: contain; -moz-background-size: contain; -o-background-size: contain; background-size: contain; min-height: 760px; }
+.hero { background: url(../imgs/header_2019.jpg) no-repeat top center #000; height: 100%; -webkit-background-size: contain; -moz-background-size: contain; -o-background-size: contain; background-size: contain; min-height: 760px; }
 nav { height: 85px; margin-top: 30px; position: relative; }
 .responsive-logo { display: hidden; }
 header { background-color: #000; }
-header ul { padding-top: 35px; }
+header ul { padding-top: 35px; display: flex; flex-direction: row; justify-content: space-around; }
 header ul li { list-style: none; float: left; text-transform: uppercase; letter-spacing: 2px; }
 header ul li a { display: block; margin: 0 20px; color: #fff; }
 header ul li.dot { color: #fff}
